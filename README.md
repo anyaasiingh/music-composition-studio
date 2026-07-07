@@ -89,10 +89,15 @@ Music Composer Game
 ├── Play Button
 ├── Variables
 └── Music Extension
+```
 
 ---
 
 
+---
+
 ## 👨‍💻 Author
+
+Made by **Anya**
 
 Made by **Anya**
