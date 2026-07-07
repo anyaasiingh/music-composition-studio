@@ -94,5 +94,14 @@ Music Composer Game
 ---
 
 ## 👨‍💻 Author
+Made by **Anya Singh**
+Heritage Institute Of Technology | B.Tech CSE (2025-2029)
 
-Made by **Anya**
+
+
+
+
+
+
+
+
