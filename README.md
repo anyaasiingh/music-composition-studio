@@ -93,11 +93,6 @@ Music Composer Game
 
 ---
 
-
----
-
 ## 👨‍💻 Author
-
-Made by **Anya**
 
 Made by **Anya**
